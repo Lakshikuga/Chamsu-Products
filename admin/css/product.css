@@ -1,0 +1,16 @@
+.btn-default{
+    color:#676a6c;
+    border: 1px #eee solid;
+}
+
+.btn-default:hover{
+    background-color: #f3f3f4;
+    color:#676a6c;
+    border: 1px #eee solid;
+}
+
+.status-padding{
+    padding-top: 10px;
+}
+
+
